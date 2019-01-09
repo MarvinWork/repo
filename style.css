@@ -1,0 +1,22 @@
+html, body {
+    margin: 0;
+    padding: 0;
+}
+body {
+    background-color: peachpuff; 
+    font-family: Verdana; 
+    font-size: 100%;}
+h1 
+   {font-family: cursive;
+   	text-align: center;
+   	text-decoration: underline;
+   	color: blue ;}    
+p{
+	font-family: cursive;
+    font-size: 80px;
+    background-color: grey;
+    text-align: center;}
+
+table {size: 50px;
+	   margin: auto;
+       text-align: center;}    
